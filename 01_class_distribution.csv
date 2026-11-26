@@ -1,0 +1,3 @@
+is_fraud,transactions,percent
+Genuine,98800,98.8
+Fraud,1200,1.2

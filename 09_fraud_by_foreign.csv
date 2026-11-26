@@ -1,0 +1,3 @@
+is_foreign,transactions,frauds,fraud_rate_pct
+Domestic,96850,946,0.977
+Foreign,3150,254,8.063

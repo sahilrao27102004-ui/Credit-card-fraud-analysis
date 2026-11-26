@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# Large real-world dataset (download from Zenodo, do not commit)
+data/creditcard.csv

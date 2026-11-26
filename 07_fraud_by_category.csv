@@ -1,0 +1,12 @@
+merchant_category,transactions,frauds,fraud_rate_pct
+jewelry,1089,139,12.764
+gift_cards,2218,230,10.37
+electronics,5337,386,7.233
+travel,4123,154,3.735
+entertainment,6962,63,0.905
+retail,18067,98,0.542
+utilities,5999,29,0.483
+fuel,9978,23,0.231
+restaurant,16691,38,0.228
+health,5886,12,0.204
+grocery,23650,28,0.118
