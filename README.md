@@ -86,8 +86,8 @@ at **59% precision** (49x better than random).
 
 | Figure | |
 |---|---|
-| ![hourly](outputs/figures/04_hourly_pattern.png) | ![lift](outputs/figures/10_rule_lift.png) |
-| ![amount](outputs/figures/02_amount_distribution.png) | ![flags](outputs/figures/11_fraud_rate_by_flag_count.png) |
+| ![hourly](04_hourly_pattern.png) | ![lift](10_rule_lift.png) |
+| ![amount](02_amount_distribution.png) | ![flags](11_fraud_rate_by_flag_count.png) |
 
 ## Methods
 
